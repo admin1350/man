@@ -19,6 +19,6 @@
 
 [pdf](https://git.lord-mikrotik.ru/admin1350/file-manager/raw/branch/main/Block%206.pdf)
 
-## Маны *Палладия*
+### Маны *Палладия*
 [pallady](https://www.opennet.ru/docs/RUS/iptables/)
 
