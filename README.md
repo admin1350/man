@@ -1,5 +1,6 @@
-# Markdonw manuals
-## Нагуглены 
+## Markdown manuals
+*Нагуглены*
+
 [edit](https://sysadmin.lord-mikrotik.ru/edit)
 
 [Обширный гайд по markdown](https://www.markdownlang.com/ru/intro/what-is-markdown.html)
@@ -9,8 +10,8 @@
 [Еще гайдик на github](https://gist.github.com/Jekins/2bf2d0638163f1294637)
 
 ---
-# Iptables manuals
-## Маны Золотарева
+## Iptables manuals
+### *Маны Золотарева*
 
 [wiki ru](https://ru.wikibooks.org/wiki/Iptables)
 
@@ -18,6 +19,6 @@
 
 [pdf](https://git.lord-mikrotik.ru/admin1350/file-manager/raw/branch/main/Block%206.pdf)
 
-## Маны Палладия 
+## *Маны Палладия*
 [pallady](https://www.opennet.ru/docs/RUS/iptables/)
 
