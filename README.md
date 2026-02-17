@@ -9,6 +9,9 @@
 
 [Еще гайдик на github](https://gist.github.com/Jekins/2bf2d0638163f1294637)
 
+[Шпора с гитхаба](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+
 ---
 ## Iptables manuals
 ### Маны *Золотарева*
